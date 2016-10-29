@@ -25,6 +25,6 @@ Ex: starting from number 2, you can 2X2=4 which eliminates 4, 2X3=6 which elimin
 ##### For more detail: #####
 Wikipedia's article on [Sieve Of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 
-##### test it against a huge max #####
+## test it against a huge max ##
 go to: lib/spec.js
 change 'xit' to 'it' to see what would happen if generating all the primes within 1 million
