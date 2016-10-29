@@ -7,7 +7,7 @@ Then return them in an array;
 
 ## One way to do it: ##
 Get/write yourself a function to check if a number is a prime.
-Then use it to check all numbers equal or smaller then the max
+Then use it to check all numbers equal or smaller than the max
 
 Then the challenge would essentially become: how do you implement the algorithm 
 to check if a number is prime?
