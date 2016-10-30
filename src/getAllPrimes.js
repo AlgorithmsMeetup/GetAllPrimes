@@ -4,6 +4,7 @@ const isPrime = (num) => {
   // Your code here
 };
 
-const findPrimesWithin = (max) => {
+const getAllPrimesOriginal = (max) => {
   // Your code here
 };
+
