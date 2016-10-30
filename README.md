@@ -3,7 +3,7 @@
 
 ## The challenge  ##
 Given a number: max, find all the primes that are smaller or equal to it.
-Then Sum of them up, then return the sum.
+Sum of them up, then return the sum.
 
 ## One way to do it: ##
 Get/write yourself a function to check if a number is a prime.
