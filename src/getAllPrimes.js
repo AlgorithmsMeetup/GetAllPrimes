@@ -4,7 +4,7 @@ const isPrime = (num) => {
   // Your code here
 };
 
-const getAllPrimesOriginal = (max) => {
+// Must code this:
+const getAllPrimes = (max) => {
   // Your code here
 };
-
