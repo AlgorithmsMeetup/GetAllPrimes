@@ -28,3 +28,11 @@ Wikipedia's article on [Sieve Of Eratosthenes](https://en.wikipedia.org/wiki/Sie
 ## Test it with a huge max ##
 Go to: lib/spec.js
 change 'xit' to 'it' to see what would happen if generating all the primes within 1 million
+
+## Brain Fried Yet? Here are some additional resources ##
+
+##### Use regular expression for primality test #####
+[link](http://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)
+
+##### More on Sieve Of Eratosthenes #####
+[link](http://wwwhomes.uni-bielefeld.de/achim/prime_sieve.html)
