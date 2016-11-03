@@ -35,4 +35,14 @@ change 'xit' to 'it' to see what would happen if generating all the primes withi
 [link](http://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)
 
 ##### More on Sieve Of Eratosthenes #####
-[link](http://wwwhomes.uni-bielefeld.de/achim/prime_sieve.html)
+[Khan Academy Explanation of Sieve of Eratosthenes](https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/sieve-of-eratosthenes-prime-adventure-part-4)
+
+##### Why Prime Numbers are Awesome #####
+[Prime Numbers & The Sieve of Eratosthenes](https://medium.com/i-math/prime-numbers-the-sieve-of-eratosthenes-ee22c119b6de#.1jbsy3e4e)
+
+##### Recent advan-sie(v)es #####
+[Researcher Modifies Sieve of Eratosthenes To Work With Less Physical Memory Space](https://science.slashdot.org/story/16/09/26/2128254/researcher-modifies-sieve-of-eratosthenes-to-work-with-less-physical-memory-space)
+
+##### Khan Academy Trial Division Lecture #####
+[Trial division](https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/a/trial-division)
+
